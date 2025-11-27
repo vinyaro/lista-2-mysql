@@ -6,7 +6,7 @@ Esta é uma lista de exercícios do site do [Professor Fantini](http://galileu.c
 🔗[link para a lista](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/Estudo_Orientado_02_ListaExercicios_02.html)
 
 ---
-## 🎯 Objetivos da Lista de Exercícios (Revisão e Estudo Orientado 2)
+## 🎯 Objetivos desta Lista de Exercícios (Revisão e Estudo Orientado 2)
 A lista de exercícios tem como foco a prática de consultas SQL mais avançadas, especialmente utilizando a técnica de junções em um novo banco de dados (CidadeEstado). Os principais objetivos são:
 - **Dominar Consultas com Junções (JOIN):** O aluno deve praticar a combinação de dados de múltiplas tabelas (Cidades e Estados inicialmente) para listar nomes de cidades e seus respectivos estados e siglas.
 - **Praticar Filtros e Agrupamentos em Junções:** Aplicar cláusulas como WHERE com LIKE e IN para filtrar resultados baseados em padrões de texto (e.g., siglas começando com "A" e "M" ou cidades começando com "Belo") e usar funções de agregação (COUNT) com GROUP BY e HAVING para contar cidades por estado.
