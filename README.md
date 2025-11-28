@@ -1,7 +1,7 @@
 # ✏️ Lista 2 - Exercícios com MySQL Workbench 8.0 
 
-Esta é uma lista de exercícios do site do [Professor Fantini](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/IntroducaoBD.php) vinculado ao Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG).
-É excelente para praticar linguagem DDL.
+Este repositório contém uma lista de exercícios do site do [Professor Fantini](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/IntroducaoBD.php) vinculado ao Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG).
+É excelente para praticar linguagem DDL (Data Definition Language) e DML (Data Manipulation Language).
 
 🔗[link para a lista](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/Estudo_Orientado_02_ListaExercicios_02.html)
 
